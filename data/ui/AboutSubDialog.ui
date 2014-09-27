@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated with glade 3.16.1 -->
+<interface>
+  <requires lib="gtk+" version="3.0"/>
+  <!-- interface-requires about_sub_dialog 1.0 -->
+  <object class="AboutSubDialog" id="about_sub_dialog">
+    <property name="can_focus">False</property>
+    <property name="border_width">5</property>
+    <property name="icon">../media/sub.svg</property>
+    <property name="type_hint">normal</property>
+    <property name="program_name">Persub</property>
+    <property name="version">0.2</property>
+    <property name="copyright" translatable="yes">2014, Ali Gholami</property>
+    <property name="comments" translatable="yes">Simple GUI to use ffmpeg and mencoder command tools to convert video files to MP4 format and burn subtitle on them.</property>
+    <property name="authors">Ali Gholami &lt;gholamia90@gmail.com&gt;</property>
+    <property name="logo_icon_name">preferences-other</property>
+    <property name="license_type">lgpl-3-0</property>
+    <child internal-child="vbox">
+      <object class="GtkBox" id="dialog-vbox1">
+        <property name="visible">True</property>
+        <property name="can_focus">False</property>
+        <property name="orientation">vertical</property>
+        <property name="spacing">1</property>
+        <child internal-child="action_area">
+          <object class="GtkButtonBox" id="dialog-action_area1">
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <property name="layout_style">end</property>
+          </object>
+          <packing>
+            <property name="expand">False</property>
+            <property name="fill">True</property>
+            <property name="pack_type">end</property>
+            <property name="position">0</property>
+          </packing>
+        </child>
+        <child>
+          <placeholder/>
+        </child>
+      </object>
+    </child>
+  </object>
+</interface>

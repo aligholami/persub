@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Sub
+_Comment=Sub application
+Categories=GNOME;Utility;
+Exec=sub
+Icon=sub
+Terminal=false
+Type=Application

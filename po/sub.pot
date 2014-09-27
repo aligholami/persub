@@ -1,0 +1,144 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-26 21:04+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../data/ui/AboutSubDialog.ui.h:1
+msgid "2014, Ali Gholami"
+msgstr ""
+
+#: ../data/ui/AboutSubDialog.ui.h:2
+msgid ""
+"Simple GUI to use ffmpeg and mencoder command tools to convert video files "
+"to MP4 format and burn subtitle on them."
+msgstr ""
+
+#: ../sub/__init__.py:21
+msgid "Show debug messages (-vv debugs sub_lib also)"
+msgstr ""
+
+#: ../data/ui/PreferencesSubDialog.ui.h:1
+msgid "Sub Preferences"
+msgstr ""
+
+#: ../data/ui/PreferencesSubDialog.ui.h:2
+msgid "_Example entry:"
+msgstr ""
+
+#. Code for other initialization actions should be added here.
+#: ../sub.desktop.in.h:1 ../data/ui/SubWindow.ui.h:5
+msgid "Sub"
+msgstr ""
+
+#: ../sub.desktop.in.h:2
+msgid "Sub application"
+msgstr ""
+
+#: ../data/ui/SubWindow.ui.h:1
+msgid "None"
+msgstr ""
+
+#: ../data/ui/SubWindow.ui.h:2
+msgid "Narrow"
+msgstr ""
+
+#: ../data/ui/SubWindow.ui.h:3
+msgid "Lots of narrow"
+msgstr ""
+
+#: ../data/ui/SubWindow.ui.h:4
+msgid "Bold"
+msgstr ""
+
+#: ../data/ui/SubWindow.ui.h:6
+msgid "_Help"
+msgstr ""
+
+#: ../data/ui/SubWindow.ui.h:7
+msgid "Contents"
+msgstr ""
+
+#: ../data/ui/SubWindow.ui.h:8
+msgid "Choose a video:"
+msgstr ""
+
+#: ../data/ui/SubWindow.ui.h:9
+msgid "Choose a subtitle: "
+msgstr ""
+
+#: ../data/ui/SubWindow.ui.h:10
+msgid "Choose a subtitle *.srt"
+msgstr ""
+
+#: ../data/ui/SubWindow.ui.h:11
+msgid "Please choose a subtitle"
+msgstr ""
+
+#: ../data/ui/SubWindow.ui.h:12
+msgid "Choose a video file"
+msgstr ""
+
+#: ../data/ui/SubWindow.ui.h:13
+msgid "Please choose a video"
+msgstr ""
+
+#: ../data/ui/SubWindow.ui.h:14
+msgid "Scale:"
+msgstr ""
+
+#: ../data/ui/SubWindow.ui.h:15
+msgid "Position:"
+msgstr ""
+
+#: ../data/ui/SubWindow.ui.h:16
+msgid "Background Color:"
+msgstr ""
+
+#: ../data/ui/SubWindow.ui.h:17
+msgid "Background Transparency:"
+msgstr ""
+
+#: ../data/ui/SubWindow.ui.h:18
+msgid "Values between 1.0 - 5.0 are allowed. 3.0 is default."
+msgstr ""
+
+#: ../data/ui/SubWindow.ui.h:20
+#, no-c-format
+msgid ""
+"The  value  is the vertical position of the subtitle in % of the screen "
+"height."
+msgstr ""
+
+#: ../data/ui/SubWindow.ui.h:21
+msgid "Values between 0 - 255 are allowed. 255 means white and 0 black."
+msgstr ""
+
+#: ../data/ui/SubWindow.ui.h:22
+msgid " Big  values  mean  more transparency. 0  means completely transparent."
+msgstr ""
+
+#: ../data/ui/SubWindow.ui.h:23
+msgid "Subtitle Options"
+msgstr ""
+
+#: ../data/ui/SubWindow.ui.h:24
+msgid "Convert Video & Burn Subtitle"
+msgstr ""
+
+#: ../data/ui/SubWindow.ui.h:25
+msgid "Burn Subtitle to MP4"
+msgstr ""
